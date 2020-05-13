@@ -20,6 +20,5 @@ def return_string_array(array)
     string_array.push(i.to_s)
     binding.pry
   end
+  return string_array
 end
-
-return_string_array([1,2,3,4,5])
