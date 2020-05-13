@@ -19,5 +19,3 @@ def return_string_array(array)
     string_array.push(i.to_s)
   end
 end
-  
-
