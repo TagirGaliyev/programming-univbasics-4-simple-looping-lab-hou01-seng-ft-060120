@@ -21,5 +21,3 @@ def return_string_array(array)
     binding.pry
   end
 end
-  
-
