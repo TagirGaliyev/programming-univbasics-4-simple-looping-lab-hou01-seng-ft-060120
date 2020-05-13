@@ -18,7 +18,6 @@ def return_string_array(array)
   string_array = Array.new
   for i in array
     string_array.push(i.to_s)
-    binding.pry
   end
   return string_array
 end
